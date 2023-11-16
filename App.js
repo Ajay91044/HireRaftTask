@@ -3,9 +3,9 @@ import './App.css';
 // import TableTwo from './HireRaft/TableTwo';
 // import EnhancedTable from './HireRaft/Table';
 // import ReusableTable from './HireRaft/Table';
-import MyTable from './HireRaft/Table';
+// import MyTable from './HireRaft/Table';
 import TableTask from './HireRaft/TableTwo';
-import TableComponent from './HireRaft/TableTwo';
+// import TableComponent from './HireRaft/TableTwo';
 // import Table2 from './HireRaft/TableTwo';
 // import ReusableTable from './HireRaft/table2';
 // import SelectBasicExample from './HireRaft/Table';
@@ -25,8 +25,7 @@ import TableComponent from './HireRaft/TableTwo';
 function App() {
   return (
     <div>  
-      <MyTable/>
-      
+      <MyTable/>     
 
     </div>
 
